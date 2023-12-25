@@ -4,7 +4,7 @@
 * K-mean and PCA- This file shows the application of K-means and PCA on breast cancer dataset.
 * Linear and Logistic regression- This file shows linear and logistic regression and their result.
 * NN & RNN- This file shows the accuracy achieved by Neural network and Recurrent neural network performed over the data of compressive strenght.
-* SVM - This file includes application of SVM over a dataset.
+* SVM - This file includes application of SVM over a dataset. K- fold was also applied to avoid overfitting.
 * test.csv and train-val.csv - These datasets have been used in NN & RNN.
 
  
